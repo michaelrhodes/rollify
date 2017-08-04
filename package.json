@@ -1,0 +1,18 @@
+{
+  "name": "rollify",
+  "version": "0.0.0",
+  "description": "a hacky little rollup thingy",
+  "bin": "build.js",
+  "dependencies": {
+    "browser-unpack": "~1.2.0",
+    "mkdirp": "~0.5.1",
+    "rollup": "~0.45.2",
+    "simple-concat": "~1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Rhodes",
+  "license": "MIT"
+}

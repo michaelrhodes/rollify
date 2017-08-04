@@ -1,0 +1,5 @@
+node_modules/*
+example/*
+test.js
+unpack.js
+replace.js
